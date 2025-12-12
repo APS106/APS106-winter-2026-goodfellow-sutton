@@ -1,3 +1,3 @@
 # APS106 - Fundamentals of Computer Programming
 ## Winter 2026
-### Sutton & Goodfellow
+### Goodfellow & Sutton
