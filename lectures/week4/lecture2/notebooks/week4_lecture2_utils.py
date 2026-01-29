@@ -68,6 +68,10 @@ def play_rpsls():
     """
     () -> int
     Prompt the user to enter "rock", "paper", "scissors", "lizard", or "spock".
+    Returns:
+        - Returns -1 if the player beats the computer.
+        - Returns 0 if its a tie.
+        - Returns 1 is the computer beats the player.
     """
 
     user_input = input('Enter "rock", "paper", "scissors", "lizard", or "spock"? ').lower()
