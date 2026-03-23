@@ -1,0 +1,15 @@
+The Beatles,Hey Jude,431
+Led Zeppelin,Stairway to Heaven,482
+Pink Floyd,Comfortably Numb,382
+The Rolling Stones,Paint It Black,222
+Jimi Hendrix,Purple Haze,170
+Fleetwood Mac,The Chain,270
+David Bowie,Space Oddity,315
+Queen,Bohemian Rhapsody,355
+The Who,Baba O'Riley,300
+Stevie Wonder,Superstition,245
+Marvin Gaye,What's Going On,233
+Aretha Franklin,Respect,147
+The Doors,Light My Fire,427
+Simon & Garfunkel,The Sound of Silence,187
+Creedence Clearwater Revival,Fortunate Son,140

@@ -27,7 +27,7 @@ def cylinder_volume(radius, height):
 
 def rectangular_prism_volume(length, width, height):
     """
-    (number, numner, number) -> number
+    (number, number, number) -> number
     Calculate the volume of a rectangular prism (3D rectangle).
     """
     return length * width * height
