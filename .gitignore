@@ -169,6 +169,7 @@ ENV/
 .mypy_cache/
 
 # folders
+__pycache__/
 
 # files
 ~$*
